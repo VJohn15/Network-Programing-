@@ -1,0 +1,4 @@
+/protocol/library/__pycache__
+.vscode
+/protocol/library/sender/__pycache__
+/protocol/library/receiver/__pycache__
